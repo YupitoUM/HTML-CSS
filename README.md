@@ -10,6 +10,9 @@ This is my process of self learning HTML and CSS
 ###### Heading 6
 
 Normla test
+<br>
 **Bold text**
+<br>
 *Italic text* 
+<br>
 ~~strikethrough text~~
