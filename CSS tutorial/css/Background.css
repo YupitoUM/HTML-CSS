@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div {
+  min-height: 100vh;
+  color: green;
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.big-img {
+  background: url("./pexels-daria-obymaha-1691924.jpg");
+  background-size: contain;
+}
+.small-img {
+  background: url("./Smal.jpg");
+  background-repeat: no-repeat;
+  background-position: 50% 20%;
+}
+.folder-img {
+  background: url("./pexels-daria-obymaha-1691924.jpg");
+  background-size: cover;
+}
+
+/* Last Rule Order */
+/* Background position */

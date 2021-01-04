@@ -1,0 +1,56 @@
+h1 {
+  font-size: 2rem;
+}
+
+/* ctrl + / = comment */
+/* CSS rule */
+/* Selectors */
+/* Declaration block {} */
+/* Declaration */
+/* Property:Value; */
+
+/* h2 {
+  font: size 0.5rem;
+}
+p {
+  font: 0.3rem;
+}
+body {
+  color: blue;
+}
+h1,
+h2 {
+  color: saddlebrown;
+} */
+
+/* ID */
+#heading {
+  color: purple;
+  background: orange;
+}
+#title {
+  background: purple;
+}
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+div {
+  color: red;
+  border: 3px solid black;
+}
+span {
+  text-transform: uppercase;
+}
+
+/* Inheritance */
+
+/* universal selector */
+* {
+  color: blue;
+}

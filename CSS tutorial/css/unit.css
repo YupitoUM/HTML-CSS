@@ -1,0 +1,63 @@
+/* font-size, width, height, pixels */
+h1 {
+  font-size: 60px;
+  width: 400px;
+  height: 400px;
+  background: pink;
+}
+.outer {
+  width: 500px;
+  height: 500px;
+  background: lightseagreen;
+}
+.inner {
+  /* Percentage respecting to the parent block */
+  width: 50%;
+  height: 50%;
+  background: lightpink;
+}
+
+/* em = RELATIVE depends on parent */
+/* lem = 16px default browser style */
+/* lem = base value */
+
+div {
+  font-size: 16px;
+}
+.relative {
+  font-size: 2em;
+  /* 2 * 10px = 20px */
+}
+.absolute {
+  font-size: 32px;
+}
+
+/* 
+rem = relative depends on root
+1rem = 16px default browser style
+*/
+html {
+  font-size: 32px;
+}
+.relative1 {
+  font-size: 2rem;
+}
+.absolute1 {
+  font-size: 64px;
+}
+
+/* 
+vh - height - percent of the screen 
+vw - width - percent of the screen
+*/
+
+.banner {
+  width: 50vw;
+  height: 50vh;
+  background: red;
+}
+.header {
+  width: 80vw;
+  height: 80vh;
+  background: blue;
+}
