@@ -38,9 +38,5 @@ Normla test
 | row 1a | row 1b |
 
 <br>
-This is ` console.log() `
-<br>
-This is code block
-```
-cout << "Hello World" << endl;
-```
+This is `console.log()`
+
