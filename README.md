@@ -23,3 +23,7 @@ Normla test
 - item 1
 - item 2
   - sub item 2a
+
+1. item 1
+1. item 2
+1. item 3
