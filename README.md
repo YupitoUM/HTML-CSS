@@ -47,3 +47,23 @@ This is code block
 ```cpp
 cout << "Hello World" << endl;
 ```
+
+<br>
+
+Before
+
+```js
+const data = [];
+```
+After
+
+```js
+const data = {};
+```
+
+My suggestion
+
+```diff
+- const data = [];
++ const data = {};
+```
