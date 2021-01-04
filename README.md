@@ -16,3 +16,10 @@ Normla test
 *Italic text* 
 <br>
 ~~strikethrough text~~
+
+<br>
+<br>
+Unordered list:
+- item 1
+- item 2
+ - sub item 2a
