@@ -44,6 +44,6 @@ This is
 <br>
 This is code block
 
-```
+```cpp
 cout << "Hello World" << endl;
 ```
