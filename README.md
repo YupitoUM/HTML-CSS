@@ -31,4 +31,4 @@ Normla test
 - [ ] item 1 incomplete
 - [x] item 2 complete
 
-[Youtube](youtube.com)
+[Youtube](http://youtube.com)
